@@ -12,8 +12,8 @@ const MyFooter = () => {
            <ul className='flex gap-5 flex-wrap'>
             {
                 socials.map((item)=>(
-                    <a href={item.url} target = "_blank" key={item.id} className='flex items-center justify-center w-15 h-14 bg-purple-300 rounded-full transition-colors hover:bg-n-6'>
-                        <img src={item.iconUrl} width={32} height={28} alt="" />
+                    <a href={item.url} target = "_blank" key={item.id} className='flex items-center justify-center w-10 h-10 bg-purple-300 rounded-full transition-colors hover:bg-n-6'>
+                        <img src={item.iconUrl} width={26} height={24} alt="" />
                     </a>
                 ))
             }
