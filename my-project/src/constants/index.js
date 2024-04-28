@@ -33,6 +33,8 @@ import {
     sliders04,
     telegram,
     twitter,
+    github, 
+    linkedin,
     yourlogo,
   } from "../assets";
   
@@ -303,21 +305,21 @@ import {
     },
     {
       id: "1",
-      title: "Twitter",
-      iconUrl: twitter,
-      url: "#",
+      title: "Github",
+      iconUrl: github,
+      url: "https://github.com/ahmadali507",
     },
     {
       id: "2",
       title: "Instagram",
       iconUrl: instagram,
-      url: "#",
+      url: "https://www.instagram.com/ahmad.__ali.__0507/",
     },
     {
       id: "3",
-      title: "Telegram",
-      iconUrl: telegram,
-      url: "#",
+      title: "LinkedIn",
+      iconUrl: linkedin,
+      url: "https://www.linkedin.com/in/ahmad-ali-shahid-22a5602b1/",
     },
     {
       id: "4",
