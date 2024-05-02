@@ -10,10 +10,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "body-scroll-lock": "^4.0.0-beta.0",
+    "framer-motion": "^11.1.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-just-parallax": "^3.1.16",
-    "react-router-dom": "^6.23.0"
+    "react-router-dom": "^6.23.0",
+    "react-scroll-lock": "^1.0.0",
+    "react-typewriter-effect": "^1.1.0",
+    "scroll-lock": "^2.1.5",
+    "typewriter-effect": "^2.21.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
